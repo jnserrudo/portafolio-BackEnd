@@ -6,12 +6,16 @@ com\jnserrudoar\nahuelserrudo\Repository\RExperiencia.class
 com\jnserrudoar\nahuelserrudo\Controller\CExperiencia.class
 com\jnserrudoar\nahuelserrudo\Entidad\Educacion.class
 com\jnserrudoar\nahuelserrudo\Security\Dto\NuevoUsuario.class
+com\jnserrudoar\nahuelserrudo\service\Shys.class
 com\jnserrudoar\nahuelserrudo\Security\Service\UsuarioService.class
+com\jnserrudoar\nahuelserrudo\Entidad\hys.class
 com\jnserrudoar\nahuelserrudo\Entidad\Experiencia.class
 com\jnserrudoar\nahuelserrudo\Dto\dtoExperiencia.class
 com\jnserrudoar\nahuelserrudo\Security\jwt\JwtEntryPoint.class
 com\jnserrudoar\nahuelserrudo\service\ImplementacionPersonaService.class
 com\jnserrudoar\nahuelserrudo\Security\jwt\JwtProvider.class
+com\jnserrudoar\nahuelserrudo\Controller\CHys.class
+com\jnserrudoar\nahuelserrudo\Dto\dtoHys.class
 com\jnserrudoar\nahuelserrudo\Security\Repository\IUsuarioRepository.class
 com\jnserrudoar\nahuelserrudo\Security\Dto\LoginUsuario.class
 com\jnserrudoar\nahuelserrudo\Security\Enums\RolNombre.class
@@ -23,6 +27,7 @@ com\jnserrudoar\nahuelserrudo\Security\Controller\Mensaje.class
 com\jnserrudoar\nahuelserrudo\Repository\IPersonaRepository.class
 com\jnserrudoar\nahuelserrudo\Security\jwt\JwtTokenFilter.class
 com\jnserrudoar\nahuelserrudo\service\SEducacion.class
+com\jnserrudoar\nahuelserrudo\Repository\Rhys.class
 com\jnserrudoar\nahuelserrudo\Security\Entidad\Usuario.class
 com\jnserrudoar\nahuelserrudo\Security\Service\RolService.class
 com\jnserrudoar\nahuelserrudo\Repository\REducacion.class

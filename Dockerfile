@@ -6,7 +6,7 @@
 #
 #CMD ["/bin/sh"]
 
-FROM amazoncorretto:17-alpine-jdk
+FROM openjdk:19
 
 COPY target/nahuelserrudo-0.0.1-SNAPSHOT.jar app.jar   
 

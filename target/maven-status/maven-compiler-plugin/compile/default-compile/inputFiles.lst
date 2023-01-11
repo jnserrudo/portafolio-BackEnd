@@ -1,8 +1,10 @@
+C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\service\Shys.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Entidad\Persona.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Entidad\Usuario.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Entidad\Rol.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Dto\dtoEducacion.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\jwt\JwtProvider.java
+C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Controller\CHys.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\NahuelserrudoApplication.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Enums\RolNombre.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Interface\IPersonaService.java
@@ -25,10 +27,13 @@ C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Controller\CExperiencia.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Entidad\Experiencia.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Controller\Mensaje.java
+C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Dto\dtoHys.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Controller\AuthController.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Dto\JwtDto.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\service\SExperiencia.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\jwt\JwtTokenFilter.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\service\SEducacion.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Dto\LoginUsuario.java
+C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Entidad\hys.java
+C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Repository\Rhys.java
 C:\YoProgramo\BackEnd\nahuelserrudo\nahuelserrudo\src\main\java\com\jnserrudoar\nahuelserrudo\Security\Repository\IUsuarioRepository.java
