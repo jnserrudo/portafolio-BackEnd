@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 //@CrossOrigin(origins="http://localhost:4200")
-@CrossOrigin(origins = "https://portafolio-backend-jnserrudo.onrender.com")
+@CrossOrigin(origins = {"https://portafolio-serrudo-jose-nahuel.web.app","http://localhost:4200"})
 public class PersonaController {
     @Autowired IPersonaService ipersonaService; 
 //el servicio llama al controlador , hacemos inyeccion de la interface, ya que la interface llama al servicio
